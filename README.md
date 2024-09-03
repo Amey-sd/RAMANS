@@ -1,2 +1,4 @@
-# RAMANS
-SIH 2024 Repository
+# Smart India Hackathon
+
+** Problem Statement **
+Indian Sign Language to Text/Speech translation
